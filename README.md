@@ -21,7 +21,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PriyalGandhi19&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/PriyalGandhi19?style=flat-square&color=6d28d9&labelColor=1e1b4b&label=FOLLOWERS)
 
 </div>
