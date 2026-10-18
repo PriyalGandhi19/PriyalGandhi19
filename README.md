@@ -182,18 +182,18 @@ Burp Suite · Windows Server · Cloudflare Tunnel · Supabase · Power BI
 
 **Microsoft**
 
-![AI Agent Builder](https://img.shields.io/badge/Microsoft%20Certified-AI%20Agent%20Builder%20Associate%20(AB--620)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SC-900](https://img.shields.io/badge/Microsoft%20Certified-Security%2C%20Compliance%20%26%20Identity%20(SC--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![DP-800](https://img.shields.io/badge/Microsoft%20Certified-SQL%20AI%20Developer%20Associate%20(DP--800)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+[![AI Agent Builder](https://img.shields.io/badge/Microsoft%20Certified-AI%20Agent%20Builder%20Associate%20(AB--620)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PriyalGandhi-7209/4EF571947A78ACF7?sharingId=187D6B7BE2FCB44E)
+[![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PriyalGandhi-7209/85E958E9C839A322?sharingId=187D6B7BE2FCB44E)
+[![SC-900](https://img.shields.io/badge/Microsoft%20Certified-Security%2C%20Compliance%20%26%20Identity%20(SC--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PriyalGandhi-7209/C6C746FB2CE6AFBF?sharingId=187D6B7BE2FCB44E)
+[![DP-800](https://img.shields.io/badge/Microsoft%20Certified-SQL%20AI%20Developer%20Associate%20(DP--800)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PriyalGandhi-7209/620248C0FDCCA168?sharingId=187D6B7BE2FCB44E)
 
 **Cisco Networking Academy**
 
-[![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/5efc5f93-e055-41c5-a583-b3332bb99329)
+[![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/certificates/?issuanceId=5efc5f93-e055-41c5-a583-b3332bb99329)
 
 **Udemy**
 
-![Udemy](https://img.shields.io/badge/Udemy-Full%20Stack%20Web%20Development%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+[![Udemy](https://img.shields.io/badge/Udemy-Full%20Stack%20Web%20Development%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](http://ude.my/UC-cc75e640-c369-4daa-865b-a66a59426d81)
 
 ---
 
